@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Abhipsa%20Panigrahi&fontSize=40&fontColor=ffffff"/>
+<h1 align="center">⚡ Sushri Abhipsa Panigrahi ⚡</h1>
 
-<h3 align="center">💻 Python Full Stack Developer</h3>
+<p align="center">
+💻 Python & Django Developer | 🌐 HTML • CSS • JavaScript <br>
+🚀 Aspiring Software Developer
+</p>
 
 ---
 
@@ -11,7 +14,10 @@ Name: Sushri Abhipsa Panigrahi
 Role: Python Developer (Django | Full Stack)
 Education: B.Tech CSE
 Skills: Python, Django, SQL, JavaScript, HTML, CSS, Git
+Currently Learning: Backend Development
 Goal: Software Engineer 🚀
+```
+
 ---
 
 ## ⚡ Tech Stack
@@ -22,34 +28,70 @@ Goal: Software Engineer 🚀
 
 ---
 
+## 🏆 Achievements
+
+* 🎓 Completed Forage virtual internships
+* 💡 Developed Django-based web applications
+* 🚀 Actively improving coding & development skills
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|------------|------|
-| Portfolio | Personal website | HTML + CSS |
-| Blog App | Django blog | Django |
-| API Project | REST APIs | DRF |
+| Project                      | Description                                              | Tech          |
+| ---------------------------- | -------------------------------------------------------- | ------------- |
+| 🌐 Portfolio Website         | Personal responsive portfolio showcasing my work         | HTML, CSS, JS |
+| 📝 Blog Application          | Full-featured blog with CRUD operations & authentication | Django        |
+| 📊 Student Management System | Manage student records with database integration         | Python + SQL  |
+| 🛒 Mini E-commerce (Basic)   | Product listing and simple cart functionality            | Django        |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhipsapanigrahi86&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhipsapanigrahi86&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhipsapanigrahi86&theme=react-dark" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🔗 Connect
+## 🎯 Mission
 
-[LinkedIn](https://linkedin.com)
+✨ Building real-world Django applications
+📚 Improving problem-solving skills
+🚀 Growing as a developer
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=120&section=footer"/>
+## 🧠 Skills (ATS Friendly)
 
-✨ Code. Build. Grow. ✨
+Python Developer | Django | Backend Development |
+SQL | JavaScript | HTML | CSS | Git
+
+---
+
+## 📬 Connect
+
+🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
+📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+
+---
+
+✨ Code. Learn. Build. Grow. ✨
+
