@@ -88,10 +88,11 @@ SQL | JavaScript | HTML | CSS | Git
 
 ## 📬 Connect
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
-📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-
+🔗 LinkedIn: https://www.linkedin.com/in/abhipsa-panigrahi-253767275/
+📧 Email: abhipsapanigrahi98@gmail.com
 ---
 
-✨ Code. Learn. Build. Grow. ✨
+<p align="center">
+Turning ideas into real-world applications. ✨
+</p>
 
