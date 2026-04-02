@@ -1,16 +1,55 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Abhipsa%20Panigrahi&fontSize=40&fontColor=ffffff"/>
 
-<!--
-**abhipsapanigrahi86/abhipsapanigrahi86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Python Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Professional Snapshot
+
+```bash
+Name: Sushri Abhipsa Panigrahi
+Role: Python Developer (Django | Full Stack)
+Education: B.Tech CSE
+Skills: Python, Django, SQL, JavaScript, HTML, CSS, Git
+Goal: Software Engineer 🚀
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|------------|------|
+| Portfolio | Personal website | HTML + CSS |
+| Blog App | Django blog | Django |
+| API Project | REST APIs | DRF |
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abhipsapanigrahi86&show_icons=true&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://linkedin.com)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=120&section=footer"/>
+
+✨ Code. Build. Grow. ✨
