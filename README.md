@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Sushri Abhipsa Panigrahi ⚡</h1>
+<h1 align="center"> Sushri Abhipsa Panigrahi 💻</h1>
 
 <p align="center">
 💻 Python & Django Developer | 🌐 HTML • CSS • JavaScript <br>
